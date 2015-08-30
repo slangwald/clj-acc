@@ -16,7 +16,7 @@ $ git clone && lein run
 
 ## Options
 
-FIXME: listing of options this app accepts.
+No options yet
 
 ## Examples
 
