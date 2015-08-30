@@ -20,11 +20,11 @@ No options yet
 
 ## Examples
 
-...
+No Examples yet
 
 ### Bugs
 
-...
+No bugs yet :P
 
 ### Any Other Sections
 ### That You Think
