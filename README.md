@@ -1,14 +1,16 @@
 # clj-accountant
 
-FIXME: description
+An accounting app for freelancers.
+
+Because accounting sucks.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+$ git clone && lein run
 
 ## Usage
 
-FIXME: explanation
+
 
     $ java -jar clj-accountant-0.1.0-standalone.jar [args]
 
